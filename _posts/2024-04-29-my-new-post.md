@@ -1,5 +1,13 @@
 ---
 layout: post
-title: My New Post
-date: '2024-04-29 02:26:10 +0800'
+title:  "My New Post"
+subtitle: "Exploring the New Post Template"
+date:   2024-04-29 12:00:01 +0200
+author: "Your Name"
+background: '/img/jekyll.jpg'
+tags: 
+  - jekyll
+  - tutorial
+categories: 
+  - Webdev
 ---
