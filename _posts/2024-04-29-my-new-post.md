@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "My New Post"
+title: My New Post
+date: '2024-04-29 02:26:10 +0800'
 subtitle: "Exploring the New Post Template"
-date:   2024-04-29 12:00:01 +0200
-author: "Your Name"
+author: Mu Zhi
 background: 'public-images/Panda.jpg'
 tags: 
   - jekyll
