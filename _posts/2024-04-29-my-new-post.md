@@ -25,7 +25,7 @@ image:
 - 列表项一
 - 列表项二
 
-[链接文本](http://example.com)
+[链接文本图片](https://raw.githubusercontent.com/MuzhiCoder/MuZhiCoderImages/main/public-images/Panda.jpg)
 
 ![帖子图片测试](https://raw.githubusercontent.com/MuzhiCoder/MuZhiCoderImages/main/public-images/Panda.jpg)
 
