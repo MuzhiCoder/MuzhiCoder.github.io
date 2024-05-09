@@ -6,11 +6,11 @@ author: MuZhi
 date: 2024-5-8 01:07:03 +0800
 categories: [Spring,Bean生命周期]
 tags: [Bean生命周期,笔记]
-pin: true #这是一个布尔值，表示这篇文章是否置顶
+pin: false #这是一个布尔值，表示这篇文章是否置顶
 math: true #同样是一个布尔值，表示是否启用数学公式渲染
 mermaid: true # 表示是否启用墨水图（Mermaid）渲染
 image:
-  path: public-images/Bean%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png
+  path: public-images/Bean%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F-logo.png
   alt: Bean创建过程.
 ---
 
