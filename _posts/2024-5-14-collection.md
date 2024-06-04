@@ -18,8 +18,7 @@ image:
 
 Java 集合类主要由两个接口`Collection`和`Map`派生出来，`Collection`有三个子接口：`List`、`Set`、`Queue`。
 
-![Collection](https://raw.githubusercontent.com/MuzhiCoder/MuZhiCoderImages/main/public-images/Collection.png)![Collection](C:\Users\HM\Pictures\UML\Collection.png)
-
+![Collection](https://raw.githubusercontent.com/MuzhiCoder/MuZhiCoderImages/main/public-images/Collection.png)
 ### List 集合
 
 `List` 是一个接口，属于 Java 集合框架（Java Collections Framework）的一部分，用于存储一系列元素。`List` 接口继承自 `Collection` 接口，提供了一些额外的功能，比如元素的有序性（元素按照插入顺序保存）和通过索引访问元素。
