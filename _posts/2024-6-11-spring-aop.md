@@ -10,7 +10,7 @@ pin: false #这是一个布尔值，表示这篇文章是否置顶
 math: true #同样是一个布尔值，表示是否启用数学公式渲染
 mermaid: true # 表示是否启用墨水图（Mermaid）渲染
 image:
-  path: public-images/public-imagesSpringboot填充容器.png
+  path: public-images/Springboot%E5%A1%AB%E5%85%85%E5%AE%B9%E5%99%A8.png
   alt: Spring Boot.
 ---
 
