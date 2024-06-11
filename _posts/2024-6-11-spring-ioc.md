@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Spring Boot 填充容器
-description: Spring Boot启动流程,填充容器
+description: Spring Boot启动流程,填充容器,IOC
 author: MuZhi
 date: 2024-6-11 09:47:01 +0800
-categories: [SpringBoot,填充容器]
-tags: [SpringBoot填充容器,笔记]
+categories: [SpringBoot,填充容器,IOC]
+tags: [SpringBoot填充容器,笔记,IOC]
 pin: false #这是一个布尔值，表示这篇文章是否置顶
 math: true #同样是一个布尔值，表示是否启用数学公式渲染
 mermaid: true # 表示是否启用墨水图（Mermaid）渲染
